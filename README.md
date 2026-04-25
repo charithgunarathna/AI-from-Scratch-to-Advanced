@@ -1,11 +1,11 @@
-# 🤖 AI Masterclass: From Scratch to Advanced 🚀
+# 🤖 Ai-learning-hub: From Scratch to Advanced 🚀
 
 ![Level](https://img.shields.io/badge/Level-Beginner--to--Expert-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Active-blue)
 ![Maintained By](https://img.shields.io/badge/Maintained%20By-Charith%20Gunarathna-orange)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-blueviolet)
 
-Welcome to the ultimate, comprehensive learning path for Artificial Intelligence. This repository is curated and maintained by **Charith Gunarathna** ([@charithgunarathna](https://github.com/charithgunarathna)), designed to take you from a complete beginner with zero knowledge to an advanced AI practitioner capable of deploying real-world models.
+Welcome to the ultimate, comprehensive learning path for Artificial Intelligence. This repository is curated and maintained by **Charith Gunarathna** ([@charithgunarathna](https://github.com/charithwannisingha)), designed to take you from a complete beginner with zero knowledge to an advanced AI practitioner capable of deploying real-world models.
 
 <img width="2752" height="1000" alt="Gemini_Generated_Image_yr6ldwyr6ldwyr6l" src="https://github.com/user-attachments/assets/d9427284-cc14-4800-a078-79da9ae2f320" />
 
@@ -84,5 +84,5 @@ Set up your local or cloud environment for smooth learning. We primarily use Pyt
 ⭐ **If this repository has helped your AI journey, please don't forget to give it a Star!** ⭐
 
 ---
-👨‍💻 **Maintainer:** **Charith Gunarathna** ([@charithgunarathna](https://github.com/charithgunarathna))  
+👨‍💻 **Maintainer:** **Charith Gunarathna** ([@charithgunarathna](https://github.com/charithwannisingha))  
 🎉 **Happy Learning & Building!**
